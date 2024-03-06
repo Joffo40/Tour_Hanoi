@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1709744554 source:/home/joffo/Documents/ExercisesC/tourAnoy/src/support.cpp
+	"support.h"
+
+1709744683 /home/joffo/Documents/ExercisesC/tourAnoy/include/support.h
+	<string>
+
+1709744359 source:/home/joffo/Documents/ExercisesC/tourAnoy/main.cpp
+	<iostream>
+	<string>
+	<support.h>
+
